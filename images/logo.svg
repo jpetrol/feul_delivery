@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+<rect width="300" height="100" rx="15" fill="#111"/>
+<text x="25" y="65" font-family="Arial" font-size="55" font-weight="bold" fill="#20c878">J</text>
+<text x="80" y="65" font-family="Arial" font-size="45" font-weight="bold" fill="white">Petrol</text>
+</svg>
